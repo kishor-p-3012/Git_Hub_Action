@@ -8,7 +8,7 @@ CFLAGS = -Wall
 OUT = main
 
 # Source files
-SRC = main.c
+SRC = main.c add.c
 
 # Default target
 all: $(OUT)
